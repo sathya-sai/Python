@@ -7,16 +7,14 @@ def parChecker(symbolString):
         symbol = symbolString[index]
         if symbol == "(":
             s.push(symbol)
-        if symbol == ")":
+        elif symbol == ")":
             s.pop()
-        else:
-            if s.isEmpty():
-                balanced = False
+
         index = index + 1
     if balanced and s.isEmpty():
         return True
     else:
         return False
 
-z = str(input("enter the arithmetic expressions"))
+z = str(input("enter the arithmetic expressions\n"))
 print(parChecker(z))
