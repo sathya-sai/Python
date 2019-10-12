@@ -1,11 +1,10 @@
 from DataStructure.utility import Queue
-
 N = 1000
 primeArr = []
 blocks = []
 
 
-def getprime (N, primeArr):
+def getprime (N, primeArr): #for prime
     for num in range(0, N + 1):
         if num > 1:
             for i in range(2, num):
@@ -20,8 +19,7 @@ primearr = primeArr
 anagrams = []
 
 
-def Prime_anagram (primearr):
-    print("The Prime anagram values are")
+def Prime_anagram (primearr): #for prime anagram
     for i in primearr:
         primearr.remove(i)
         for j in primearr:
@@ -34,10 +32,15 @@ def Prime_anagram (primearr):
 
 
 Prime_anagram(primearr)
-
 q = Queue()
-print("Anagram prime in Reverse Order\n", anagrams)
-for a in anagrams:
-    q.enqueue(a)
-    a = int(a)
+print("Anagram prime numbers are\n", anagrams)
+
+print("Anagarams in reverse order")
+reverse = []
+for i in anagrams:
+    reverse.append(i)
+    i = q.dqueue()
+
+reverse.sort(reverse=True)
+print(reverse)
 

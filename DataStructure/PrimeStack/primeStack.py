@@ -8,7 +8,6 @@ def getprime (N, primeArr):
                 primeArr.append(num)
 
 def Prime_anagram (primearr):
-    print("The Prime anagram values are")
     for i in primearr:
         primearr.remove(i)
         for j in primearr:
@@ -62,8 +61,15 @@ anagrams = []
 
 Prime_anagram(primearr)
 st = Stack()
-print("Anagram in reverse Order\n", anagrams)  # Printing prime numbers
+print("Anagram prime numbers are\n", anagrams)  # Printing prime numbers
 for a in anagrams:
     st.push(a)
     a = int(a)
+print("Anagarams in reverse order")  # reverse order of anagrams
+reverse = []
+for i in anagrams:
+    reverse.append(i)
+    i = st.pop()
 
+reverse.sort(reverse=True)
+print(reverse)

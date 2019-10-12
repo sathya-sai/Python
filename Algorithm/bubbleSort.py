@@ -2,7 +2,7 @@
 # Driver code to test above
 from Algorithm.utility import bubbleSort
 
-arr = [64, 34, 25, 128, 22, 11, 90]
+arr = [str(input("Enter the elements \n"))]
 
 bubbleSort(arr)
 

@@ -2,31 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d524faad-6c0b-4297-9e2a-2343169f3b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/calender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/2Dprime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Calender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/OrderedList/linkedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/PrimeStack/PrimeStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/QueueinTwoStacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/primeQueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/simulateBankingCashCounter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/stack/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/stack/stackBL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/weekDay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/hashing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/test_cases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/test_cases/test_LinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/binarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/binarySearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/bubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/insertionSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/insertionSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/utility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/vendingMachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/vendingMachine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure/BalancedParanthisis/paranthisis.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/BalancedParanthisis/paranthisis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Calender.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/calender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/OrderedList/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/OrderedList/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/OrderedList/linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/OrderedList/linkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/PrimeStack/PrimeStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/PrimeStack/primeStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/QueueinTwoStacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/queueinTwoStacks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure/Unordered/linked list.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Unordered/linked list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure/Unordered/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Unordered/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/primeQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/primeQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/stack/stackBL.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/anagramPrime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure/utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/utility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functional/factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functional/factors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.factors">
+  <component name="RunManager" selected="Python.paranthisis">
     <configuration name="2Dprime" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Calender.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/calender.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/Palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,6 +140,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/AnagramPrime/Prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PrimeStack" type="PythonConfigurationType" factoryName="Python">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure/PrimeStack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/PrimeStack/primeStack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anagramPrime" type="PythonConfigurationType" factoryName="Python">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/anagramPrime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calender" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="coupenNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,32 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/calender.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dayoftheweek" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/dayoftheweek.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functional/coupenNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,6 +337,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hashing" type="PythonConfigurationType" factoryName="Python">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/hashing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/insertionSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kill" type="PythonConfigurationType" factoryName="Python">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/kill.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="linked list" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,7 +433,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/OrderedList/linkedlist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/OrderedList/linkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,6 +539,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/primeQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="queueinTwoStacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/queueinTwoStacks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -575,7 +674,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="weekDay" type="PythonConfigurationType" factoryName="Python">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/weekDay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.anagramPrime" />
+      <item itemvalue="Python.hashing" />
+      <item itemvalue="Python.kill" />
       <item itemvalue="Python.factors" />
       <item itemvalue="Python.2Dprime" />
       <item itemvalue="Python.Calender" />
@@ -596,17 +719,21 @@
       <item itemvalue="Python.Palindrome" />
       <item itemvalue="Python.linked list" />
       <item itemvalue="Python.primeQueue" />
-      <item itemvalue="Python.bst" />
-      <item itemvalue="Python.dayoftheweek" />
+      <item itemvalue="Python.weekDay" />
+      <item itemvalue="Python.PrimeStack" />
+      <item itemvalue="Python.coupenNumbers" />
+      <item itemvalue="Python.insertionSort" />
       <item itemvalue="Python.vendingMachine" />
-      <item itemvalue="Python.calender" />
+      <item itemvalue="Python.bst" />
+      <item itemvalue="Python.queueinTwoStacks" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.vendingMachine" />
-        <item itemvalue="Python.dayoftheweek" />
-        <item itemvalue="Python.calender" />
         <item itemvalue="Python.bst" />
+        <item itemvalue="Python.queueinTwoStacks" />
+        <item itemvalue="Python.coupenNumbers" />
+        <item itemvalue="Python.vendingMachine" />
+        <item itemvalue="Python.insertionSort" />
       </list>
     </recent_temporary>
   </component>
