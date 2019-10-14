@@ -1,0 +1,19 @@
+{
+  "inventory": [
+    {
+      "name": "Rice",
+      "weight":30,
+      "price_per_kg": 53
+    },
+     {
+      "name": "Pulse",
+      "weight":25,
+      "price_per_kg": 60
+    },
+     {
+      "name": "Wheats",
+      "weight":20,
+      "price_per_kg": 40
+    }
+  ]
+}
