@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d524faad-6c0b-4297-9e2a-2343169f3b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/DeckOfCards/deckOfCards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/StockReport/stocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/AddressBook/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/AddressBook/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Commercialdataprocessing/stackAccount.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/bubbleSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bubbleSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/BalancedParanthisis/paranthisis.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/BalancedParanthisis/paranthisis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/calender.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure/OrderedList/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/OrderedList/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Unordered/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Unordered/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/calender.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/calender.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/simulateBankingCashCounter.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/simulateBankingCashCounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/InventoryDataManagment/inventory.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/InventoryDataManagment/inventory.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/InventoryDataManagment/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/InventoryDataManagment/inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/hashing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functional/coupenNumbers.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/RegularExpressionDemonstration/regEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/RegularExpressionDemonstration/regEx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/StockReport/stock.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/StockReport/stock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/StockReport/stockReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/StockReport/stockReport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/StockReport/stocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/AddressBook/addressBook.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.deckOfCards">
+  <component name="RunManager" selected="Python.regEx">
     <configuration name="2Dprime" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,6 +162,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="addressBook" type="PythonConfigurationType" factoryName="Python">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/AddressBook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/AddressBook/addressBook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="anagramPrime" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,27 +267,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dayoftheweek" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/dayoftheweek.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="deckOfCards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,6 +280,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/DeckOfCards/deckOfCards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functional/distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,27 +364,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/hashing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="insertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/insertionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -448,6 +448,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/OrderedList/linkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/AddressBook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/AddressBook/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -561,6 +582,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="regEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/RegularExpressionDemonstration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/RegularExpressionDemonstration/regEx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="simulateBankingCashCounter" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -582,27 +624,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/sqrt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="stockReport" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -616,27 +637,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/StockReport/stockReport.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stocks" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/StockReport" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/StockReport/stocks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -758,19 +758,18 @@
       <item itemvalue="Python.primeQueue" />
       <item itemvalue="Python.weekDay" />
       <item itemvalue="Python.PrimeStack" />
-      <item itemvalue="Python.dayoftheweek" />
-      <item itemvalue="Python.insertionSort" />
-      <item itemvalue="Python.sqrt" />
-      <item itemvalue="Python.stocks" />
+      <item itemvalue="Python.addressBook" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.deckOfCards" />
+      <item itemvalue="Python.distance" />
+      <item itemvalue="Python.regEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regEx" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.deckOfCards" />
-        <item itemvalue="Python.stocks" />
-        <item itemvalue="Python.sqrt" />
-        <item itemvalue="Python.insertionSort" />
-        <item itemvalue="Python.dayoftheweek" />
+        <item itemvalue="Python.distance" />
       </list>
     </recent_temporary>
   </component>

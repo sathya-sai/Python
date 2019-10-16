@@ -1,0 +1,29 @@
+[
+  {
+    "first_name": "ntr",
+    "last_name": "nandamuritarakaramarao",
+    "address": "jubl",
+    "city": "hydrabad",
+    "state": "telangana",
+    "zip": "583132",
+    "phone_num": "09876543212"
+  },
+  {
+    "first_name": "ram",
+    "last_name": "ramraj",
+    "address": "kampli",
+    "city": "bellary",
+    "state": "karnataka",
+    "zip": "3456",
+    "phone_num": "87654"
+  },
+  {
+    "first_name": "bala",
+    "last_name": "balayya",
+    "address": "nead",
+    "city": "kaka",
+    "state": "chica",
+    "zip": "8976",
+    "phone_num": "987654"
+  }
+]

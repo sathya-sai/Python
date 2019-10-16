@@ -1,0 +1,17 @@
+[
+  {
+    "name": "IBM",
+    "share_no": "100",
+    "Share_Price": "10000"
+  },
+  {
+    "name": "Infosis",
+    "share_no": "7000",
+    "Share_Price": "1990099"
+  },
+  {
+    "name": "BridgeLabz",
+    "share_no": "120",
+    "Share_Price": "250000"
+  }
+]
