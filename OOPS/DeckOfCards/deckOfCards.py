@@ -32,6 +32,7 @@ class DeckOfCard:
                 if temp[i] == random_rank:
                     flag = False
                     break
+
             if flag:
                 # if flag is true
                 self.cards[random_suit].append(random_rank)

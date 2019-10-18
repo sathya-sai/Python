@@ -13,5 +13,10 @@
     "name": "BridgeLabz",
     "share_no": "120",
     "Share_Price": "250000"
+  },
+  {
+    "name": "legato",
+    "share_no": "55",
+    "Share_Price": "50000"
   }
 ]

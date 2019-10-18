@@ -64,9 +64,6 @@ class AddressBook:
             if not phone_num.isnumeric() and len(phone_num) == 10:
                 phone_num = input("Enter Valid Phone number:").strip()
 
-
-
-
         except ValueError:
             print("You have entered wrong data:")
 
@@ -214,6 +211,9 @@ class AddressBook:
                             print("you have entered wrong name")
             if flag:
                 print("Data not available.")
+if __name__ == "__main__":
+    s = AddressBook()
+    s.people_report()
 
 
 

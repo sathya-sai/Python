@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ibm",
+    "share_no": "89",
+    "Share_Price": "9089"
+  },
+  {
+    "name": "tcs",
+    "share_no": "34",
+    "Share_Price": "1344"
+  },
+  {
+    "name": "legato",
+    "share_no": "454",
+    "Share_Price": "45"
+  }
+]

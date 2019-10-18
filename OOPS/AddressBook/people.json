@@ -2,7 +2,7 @@
   {
     "first_name": "ntr",
     "last_name": "nandamuritarakaramarao",
-    "address": "jubl",
+    "address": "jubllhils",
     "city": "hydrabad",
     "state": "telangana",
     "zip": "583132",
@@ -25,5 +25,32 @@
     "state": "chica",
     "zip": "8976",
     "phone_num": "987654"
+  },
+  {
+    "first_name": "rajesh",
+    "last_name": "rajeshekar",
+    "address": "nellue",
+    "city": "udupi",
+    "state": "karnataka",
+    "zip": "567890",
+    "phone_num": "98799889"
+  },
+  {
+    "first_name": "ram",
+    "last_name": "raj",
+    "address": "abc",
+    "city": "bcd",
+    "state": "def",
+    "zip": "34556",
+    "phone_num": "98765456"
+  },
+  {
+    "first_name": "rajini",
+    "last_name": "kanth",
+    "address": "kanchipuram",
+    "city": "chennai",
+    "state": "tamilnadu",
+    "zip": "2123",
+    "phone_num": "12321"
   }
 ]

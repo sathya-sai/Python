@@ -11,9 +11,8 @@ fn = str(input("Enter the full name\n"))
 if not fn.isalpha():
     fn = str(input("Enter the full name in Alphabets\n"))
 result = re.sub(r"<<FullName>>", fn, result)
-
 phno = input("Enter your Phone No\n")
-if not phno.isnumeric():
+if not phno.isnumeric() and r'[789]\d{9}$':
     phno = input("Enter your Phone No in 10 digits\n")
 result = re.sub(r"xxxxxxxxxx", phno, result)
 
