@@ -1,41 +1,32 @@
-{
-  "Doctors ": [
-    {
-      "name": "Vadiraj",
-      "Id":111,
-      "Specialization": "Cardiologist",
-      "Availability": "7-9"
-    },
-     {
-      "name": "KrishnaMurthi",
-      "Id":222,
-      "Specialization": "Dentist",
-      "Availability": "9-11"
-    },
-     {
-      "name": "Rajshekar",
-      "Id":333,
-      "Specialization": "Neurosurgeon",
-      "Availability": "11-13"
-    },
-    {
-      "name": "Janrdhan",
-      "Id":444,
-      "Specialization": "Dentist",
-      "Availability": "13-15"
-    },
-    {
-      "name": "Ramesh",
-      "Id":555,
-      "Specialization": "dermatologist",
-      "Availability": "15-18"
-    },
-    {
-      "name": "RamaKrishna",
-      "Id":666,
-      "Specialization": "GeneralPhysician",
-      "Availability": "18-21"
+[
+  {
+    "data": {
+    "doctor name": "RamaKrishna",
+    "speciality": "brain specialist"
     }
-  ]
-
-}
+  },
+  {
+    "data": {
+    "doctor name": "SathyaSai",
+    "speciality": "heart specialist"
+    }
+  },
+  {
+    "data": {
+    "doctor name": "VadiRaj",
+    "speciality": "multispecialist"
+    }
+  },
+  {
+    "data": {
+    "doctor name": "RamaRao",
+    "speciality": "Dermatologists"
+    }
+  },
+    {
+    "data": {
+    "doctor name": "NTR",
+    "speciality": "Geriatric Medicine Specialists"
+    }
+  }
+]

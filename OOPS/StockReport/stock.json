@@ -18,5 +18,20 @@
     "name": "legato",
     "share_no": "55",
     "Share_Price": "50000"
+  },
+  {
+    "name": "MicroSoft",
+    "share_no": "500",
+    "Share_Price": "50"
+  },
+  {
+    "name": "TCS",
+    "share_no": "300",
+    "Share_Price": "4000"
+  },
+  {
+    "name": "iit",
+    "share_no": "25",
+    "Share_Price": "2800"
   }
 ]

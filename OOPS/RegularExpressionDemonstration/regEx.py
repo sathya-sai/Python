@@ -6,16 +6,14 @@ name = str(input("Enter the name\n"))
 if not name.isalpha():
     name = str(input("Enter the name in Alphabets\n"))
 result = re.sub(r"<<Name>>", name, text)
-
 fn = str(input("Enter the full name\n"))
-if not fn.isalpha():
+if not re.match(r'[a-zA-Z\s]+$', fn):
     fn = str(input("Enter the full name in Alphabets\n"))
 result = re.sub(r"<<FullName>>", fn, result)
 phno = input("Enter your Phone No\n")
-if not phno.isnumeric() and r'[789]\d{9}$':
+if not r'[789]\d{9}$':
     phno = input("Enter your Phone No in 10 digits\n")
 result = re.sub(r"xxxxxxxxxx", phno, result)
-
 
 date = datetime.date.today()
 replace_date = str(date)

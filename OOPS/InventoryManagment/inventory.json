@@ -1,0 +1,22 @@
+[
+  {
+    "name": "rice",
+    "weight": "23",
+    "price_per_kg": "23"
+  },
+  {
+    "name": "wheat",
+    "weight": "45",
+    "price_per_kg": "20"
+  },
+  {
+    "name": "Pulses",
+    "weight": "200",
+    "price_per_kg": "5"
+  },
+  {
+    "name": "rice",
+    "weight": "24",
+    "price_per_kg": "250"
+  }
+]

@@ -17,7 +17,7 @@ class DeckOfCard:
         self.player = (self.player1, self.player2, self.player3, self.player4)
 
     def dec_card(self):
-        count = 36
+        count = 52
         # setting count as 36
         while count > 0:
             random_suit = self.suits[random.randrange(0, 4, 1)]
@@ -56,7 +56,7 @@ class DeckOfCard:
     def player_card_display(self):
         # print the payers cards
         for i in range(len(self.player)):
-            print("\n************ Player ", i + 1, "**************")
+            print("\n******** Player",i + 1,"*********")
             print("Clubs : ", self.player[i]["Clubs"])
             print("Diamond : ", self.player[i]["Diamond"])
             print("Hearts : ", self.player[i]["Hearts"])

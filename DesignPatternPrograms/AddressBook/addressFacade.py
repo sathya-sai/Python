@@ -1,11 +1,14 @@
 import json
+from abc import ABC, abstractmethod
 
 
-class AddressBook:
-    def __init__(self):
-        """
-        This initial method represents the empty list
-        """
+class AddressBook(ABC):
+    def address(self):
+        pass
+
+
+class AddPerson(AddressBook):
+    def address(self):
         self.list = []
         with open("people.json") as data:
             # It access the json file with data
@@ -19,13 +22,6 @@ class AddressBook:
             except Exception:
                 # Exception is handle here
                 print("File is empty")
-
-    def add_Person(self):
-        """
-        Here the list of data is created
-        :return: It returns list
-        """
-
         dt = {
             "first_name": '',
             "last_name": '',
@@ -82,7 +78,7 @@ class AddressBook:
         """
         This function is for writing data in file.
         """
-        dt = self.add_Person()
+        dt = self.address()
         self.list.append(dt)
 
         with open("people.json", 'w') as data:
@@ -91,13 +87,22 @@ class AddressBook:
             # It converts python file to json file da
             print("Person Added")
 
-    def delete_person(self):
-        """
-        This function is for deleting the person form json file
-        :return: It prints the data deleted msg after deleting info.
-        """
 
-        # function to remove the particular information
+class DeletePerson(AddressBook):
+    def address(self):
+        self.list = []
+        with open("people.json") as data:
+            # It access the json file with data
+            try:
+                data = json.load(data)
+                # It converts json file to python file data
+                for i in data:
+                    # It adds the data to the list one by one
+                    self.list.append(i)
+            # except IndexError:
+            except Exception:
+                # Exception is handle here
+                print("File is empty")
         try:
             first_name = input("Enter the first name:").strip()
             last_name = input("Enter the last name").strip()
@@ -122,14 +127,22 @@ class AddressBook:
                 else:
                     print("Not matching with the data")
 
-    def edit_person(self):
-        """
-        This function is for edit the data in address book.
-        :return: It shows data edited msg after editing
-        """
 
-        # function for editing person information
-
+class EditPerson(AddressBook):
+    def address(self):
+        self.list = []
+        with open("people.json") as data:
+            # It access the json file with data
+            try:
+                data = json.load(data)
+                # It converts json file to python file data
+                for i in data:
+                    # It adds the data to the list one by one
+                    self.list.append(i)
+            # except IndexError:
+            except Exception:
+                # Exception is handle here
+                print("File is empty")
         print("Enter data for editing")
         try:
             first_name = input("Enter first name : ").strip()  # taking user name
@@ -214,6 +227,11 @@ class AddressBook:
                 print("Data not available.")
 
 
-if __name__ == "__main__":
-    s = AddressBook()
-    s.people_report()
+R = AddPerson()
+R.people_report()
+#
+# j = DeletePerson()
+# j.address()
+#
+# k = EditPerson()
+# k.address()

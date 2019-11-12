@@ -1,14 +1,14 @@
 import json
 
 
-class StockReport:
+class Inventory:
     def __init__(self):
         """
         This initial method represents the empty list
         """
         self.list = []
-        with open("stock.json") as data:
-            # It access the json file with dataDesign Pattern Programs
+        with open("inventory.json") as data:
+            # It access the json file with data
             try:
                 data = json.load(data)
                 # It converts json file to python file data
@@ -20,7 +20,7 @@ class StockReport:
                 # Exception is handle here
                 print("File is empty")
 
-    def new_data(self):
+    def add_inventory(self):
         """
         Here the list of data is created
         :return: It returns list
@@ -28,14 +28,24 @@ class StockReport:
 
         dt = {
             "name": '',
-            "share_no": '',
-            "Share_Price": ''
+            "weight": '',
+            "price_per_kg": '',
+
+
         }
 
         try:
-            name = input("Enter the company name:").strip()
-            share_no = input("Enter the Number of share: ").strip()
-            share_price = input("Enter the share price:").strip()
+            name = input("Enter the Inventory Name:").strip()
+            if not name.isalpha():
+                name = input(" Enter valid Inventory Name:").strip()
+
+            weight = input("Enter the weight: ").strip()
+            if not weight.isnumeric():
+                weight = input("Enter valid weight: ").strip()
+            price_per_kg = input("Enter the price:").strip()
+            if not price_per_kg.isnumeric():
+                price_per_kg = input("Enter valid price:").strip()
+
 
         except ValueError:
             print("You have entered wrong data:")
@@ -43,38 +53,38 @@ class StockReport:
             # Here all the value is assign to the input
         else:
             dt["name"] = name
-            dt["share_no"] = share_no
-            dt["Share_Price"] = share_price
-            return dt
+            dt["weight"] = weight
+            dt["price_per_kg"] = price_per_kg
 
-    # It adds the all new data to the list
-    def Stock_report(self):
+            return dt
+    def inventory_report(self):
         """
         This function is for writing data in file.
         """
-        LinkedList = self.new_data()
-        self.list.append(LinkedList)
+        dt = self.add_inventory()
+        self.list.append(dt)
 
-        with open("stock.json", 'w') as data:
+        with open("inventory.json", 'w') as data:
             # Here all the data write in the json file
             json.dump(self.list, data, indent=2)
             # It converts python file to json file da
-            print("Company Added")
+            print("Inventory Added")
 
     def display(self):
         """
         It displays all file data.
         """
         # It displays all the information
-        print("Company name\t\tNo of share\t\tPer share price\t\ttotal price")
+        print("name\t\t\t\tweight\t\t\t\tPer kg\t\t\t\ttotal price")
         for i in self.list:
-            print(i["name"], "\t\t\t\t", i["share_no"], "\t\t\t\t", i["Share_Price"],
-                  "\t\t\t\t", int(i["share_no"]) * int(i["Share_Price"]))
+            print(i["name"], "\t\t\t\t", i["weight"], "\t\t\t\t", i["price_per_kg"],
+                  "\t\t\t\t", int(i["weight"]) * int(i["price_per_kg"]))
             print()
 
 
+
 if __name__ == "__main__":
-    stock = StockReport()
-    stock.display()
-    stock.Stock_report()
-    stock.display()
+    s = Inventory()
+    s.inventory_report()
+    s.display()
+

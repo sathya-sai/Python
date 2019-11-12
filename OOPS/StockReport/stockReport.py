@@ -27,9 +27,9 @@ class StockReport:
         """
 
         dt = {
-        "name": '',
-        "share_no": '',
-        "Share_Price": ''
+            "name": '',
+            "share_no": '',
+            "Share_Price": ''
         }
 
         try:
@@ -57,7 +57,7 @@ class StockReport:
 
         with open("stock.json", 'w') as data:
             # Here all the data write in the json file
-            json.dump(self.list, data,indent=2)
+            json.dump(self.list, data, indent=2)
             # It converts python file to json file da
             print("Company Added")
 
@@ -69,7 +69,7 @@ class StockReport:
         print("Company name\t\tNo of share\t\tPer share price\t\ttotal price")
         for i in self.list:
             print(i["name"], "\t\t\t\t", i["share_no"], "\t\t\t\t", i["Share_Price"],
-                "\t\t\t\t", int(i["share_no"]) * int(i["Share_Price"]))
+                  "\t\t\t\t", int(i["share_no"]) * int(i["Share_Price"]))
             print()
 
 

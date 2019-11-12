@@ -22,7 +22,7 @@
     "last_name": "balayya",
     "address": "nead",
     "city": "kaka",
-    "state": "chica",
+    "state": "karnataka",
     "zip": "8976",
     "phone_num": "987654"
   },
@@ -39,7 +39,7 @@
     "first_name": "ram",
     "last_name": "raj",
     "address": "abc",
-    "city": "bcd",
+    "city": "hospet",
     "state": "def",
     "zip": "34556",
     "phone_num": "98765456"
@@ -52,5 +52,50 @@
     "state": "tamilnadu",
     "zip": "2123",
     "phone_num": "12321"
+  },
+  {
+    "first_name": "ram",
+    "last_name": "ramu",
+    "address": "kampli",
+    "city": "hospet",
+    "state": "karnataka",
+    "zip": "583132",
+    "phone_num": "0987843"
+  },
+  {
+    "first_name": "raj",
+    "last_name": "ram",
+    "address": "mumbai",
+    "city": "bellary",
+    "state": "telangana",
+    "zip": "583132",
+    "phone_num": "123456788"
+  },
+  {
+    "first_name": "ram",
+    "last_name": "ramu",
+    "address": "afds",
+    "city": "dshg",
+    "state": "rga",
+    "zip": "46",
+    "phone_num": "5467"
+  },
+  {
+    "first_name": "sathya",
+    "last_name": "sai",
+    "address": "govandi",
+    "city": "bellary",
+    "state": "karnataka",
+    "zip": "5333332",
+    "phone_num": "9876543210"
+  },
+  {
+    "first_name": "raj",
+    "last_name": "ram",
+    "address": "dfask",
+    "city": "afh",
+    "state": "liwrfehkl",
+    "zip": "57",
+    "phone_num": "568"
   }
 ]

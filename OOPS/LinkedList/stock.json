@@ -13,5 +13,10 @@
     "name": "legato",
     "share_no": "454",
     "Share_Price": "45"
+  },
+  {
+    "name": "capGemini",
+    "share_no": "34",
+    "Share_Price": "345"
   }
 ]

@@ -1,0 +1,58 @@
+[
+  {
+    "transaction": "250",
+    "customer_name": "sathya",
+    "company_name": "bridgelabz",
+    "no_of_share": "2400",
+    "cost": "20000",
+    "time": "6"
+  },
+  {
+    "transaction": "6000",
+    "customer_name": "raj",
+    "company_name": "tcs",
+    "no_of_share": "765",
+    "cost": "5678",
+    "time": "9"
+  },
+  {
+    "transaction": "3000",
+    "customer_name": "Robo",
+    "company_name": "BridgeLabz",
+    "no_of_share": "800",
+    "cost": "5000",
+    "time": "9"
+  },
+  {
+    "transaction": "568",
+    "customer_name": "klj",
+    "company_name": "kl",
+    "no_of_share": "0",
+    "cost": "9",
+    "time": "90"
+  },
+  {
+    "transaction": "500",
+    "customer_name": "raja",
+    "company_name": "BridgeLabz",
+    "no_of_share": "1000",
+    "cost": "2500",
+    "time": "8AM"
+  },
+  {
+    "transaction": "3467",
+    "customer_name": "raj",
+    "company_name": "legato",
+    "no_of_share": "677",
+    "cost": "500",
+    "time": "98"
+  },
+  {
+    "transaction": "500",
+    "customer_name": "leo",
+    "company_name": "ibm",
+    "no_of_share": "45",
+    "cost": "3456",
+    "time": "7"
+  }
+]

@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d524faad-6c0b-4297-9e2a-2343169f3b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/clinique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/doctors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/patients.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/LinkedList/companyShares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatternPrograms/AddressBook/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatternPrograms/AddressBook/addressFacade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatternPrograms/AddressBook/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatternPrograms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/InventoryManagment/inventory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/InventoryManagment/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Stack/Transaction.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Stack/stock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/AddressBook/addressBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/AddressBook/addressBook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/AddressBook/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/AddressBook/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/AddressBook/people.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/AddressBook/people.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/CliniqueManagment/clinique.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/clinique.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/CliniqueManagment/doctors.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/doctors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/CliniqueManagment/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/CliniqueManagment/patients.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/CliniqueManagment/patients.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/Commercialdataprocessing/stackAccount.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/DeckOfCards/deckOfCards.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/DeckOfCards/deckOfCards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/LinkedList/companyShares.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/LinkedList/companyShares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/LinkedList/stock.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/LinkedList/stock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/RegularExpressionDemonstration/regEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/RegularExpressionDemonstration/regEx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPS/StockReport/stock.json" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/StockReport/stock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/StockReport/stockReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/StockReport/stockReport.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +46,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fundoo" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -55,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stockReport">
+  <component name="RunManager" selected="Python.addressFacade">
     <configuration name="2Dprime" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,6 +195,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="addressFacade" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPatternPrograms/AddressBook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPatternPrograms/AddressBook/addressFacade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="anagramPrime" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,69 +292,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/bubbleSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="clinique" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/CliniqueManagment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/CliniqueManagment/clinique.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="companyShares" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/LinkedList" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/LinkedList/companyShares.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="deckOfCards" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS/DeckOfCards" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/DeckOfCards/deckOfCards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -560,6 +531,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignPatternPrograms/AddressBook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesignPatternPrograms/AddressBook/prac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="primeAnagram" type="PythonConfigurationType" factoryName="Python">
       <module name="Program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -636,6 +628,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/simulateBankingCashCounter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/sqrt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -779,19 +792,19 @@
       <item itemvalue="Python.weekDay" />
       <item itemvalue="Python.PrimeStack" />
       <item itemvalue="Python.addressBook" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.deckOfCards" />
+      <item itemvalue="Python.sqrt" />
       <item itemvalue="Python.regEx" />
-      <item itemvalue="Python.clinique" />
-      <item itemvalue="Python.companyShares" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.addressFacade" />
+      <item itemvalue="Python.prac" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regEx" />
-        <item itemvalue="Python.deckOfCards" />
-        <item itemvalue="Python.companyShares" />
-        <item itemvalue="Python.clinique" />
+        <item itemvalue="Python.addressFacade" />
+        <item itemvalue="Python.prac" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.regEx" />
+        <item itemvalue="Python.sqrt" />
       </list>
     </recent_temporary>
   </component>

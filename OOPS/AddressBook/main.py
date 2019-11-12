@@ -25,7 +25,7 @@ class Address:
                     print("You have selected wrong choice.")
                     continue
                 # according to choice calling functions
-                choice1 = { 1:"people_report", 2: "delete_person", 3: "edit_person"}
+                choice1 = {1: "people_report", 2: "delete_person", 3: "edit_person"}
                 fun = getattr(self.obj, choice1[choice])
                 fun()
         except ValueError:
@@ -36,7 +36,7 @@ class Address:
         return "done"
 
 
-if __name__ == "__main__": # main method
+if __name__ == "__main__":  # main method
 
     obj = Address()
     # creating object for address book
